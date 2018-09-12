@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_speech.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_speech.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Klara Figa Testimony</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor><ref target="https://sfiaccess.usc.edu"><orgName>USC Shoah Foundation</orgName></ref></distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <p><l>Transcription was derived from the audio-visual testimony of Klara Figa, made by the <orgName>USC Shoah Foundation</orgName></l>. 
+               <l>Filmed on <date when="1996-07-28">July 28, 1996</date>.</l>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+            <l>Interviewer: "My name is Chaya Rosen. Chaya is spelled C H A Y A, Rosen is R O S E N, and I'm interviewing Mrs. Klara Figa. Today's date is <date when="1996-07-28">July 28th, 1996</date> and we are in <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>."</l>
+            
+            <l>Interviewer: "Mrs. Figa, could you please tell us the name you were given at birth?"</l>
+            
+            <l>Klara Figa: "At birth?"</l>
+            
+            <l>Interviewer: "Yes."</l>
+                     
+            <l>Klara Figa: "Keila Holzman."</l>
+            
+            <l>Interviewer: "And how to do you spell Keila?"</l>
+            
+            <l>Klara Figa: "K E I L A."</l>
+            
+            <l>Interviewer: "And your last name?"</l>
+            
+            <l>Klara Figa: "H O L Z M A N."</l>
+            
+            <l>Interviewer: "Did you have any other names?"</l>
+            
+            <l>Klara Figa: "Not before, after."</l>
+            
+            <l>Interviewer: "OK, what were they?"</l>
+            
+            <l>Klara Figa: "For change to Klara, while living in <placeName role="61.9323362 98.44927">Russia</placeName>."</l>
+            
+            <l>Interviewer: "OK."</l>
+            
+            <l>Klara Figa: "And Klara Holzman."</l>
+            
+            <l>Interviewer: "And when and were were you born?"</l>
+            
+            <l>Klara Figa:" I was born in <placeName role="50.3838204 24.2168673">Krystynopol</placeName>, K R Y S T Y N O P O L."</l>
+            
+            <l>Interviewer: "And that city was in what country?"</l>
+            
+            <l>Klara Figa: "<placeName role="52.9413115 18.5135975">Poland</placeName>"</l>
+            
+            <l>Interviewer: "OK, and in what year were you born?"</l>
+            
+            <l>Klara Figa: "In 1923 the 24th of December."</l>
+            
+            <l>Interviewer: "So how old are you today?"</l>
+            
+            <l>Klara Figa: "72"</l>
+            
+            <l>Interviewer: "OK. What were your parents' names?"</l>
+            
+            <l>Klara Figa: "My father's name was Solomon Holzman, my mother's Pearl Holzman, Shpalter by maiden name."</l>
+            
+            <l>Interviewer: "And they were born in what city?"</l>
+            
+            <l>Klara Figa: "In <placeName role="50.3838204 24.2168673">Krystynopol</placeName> my father, and my mother was born in a village, <placeName role="50.0530713 23.9655373">Ohrinov</placeName>"</l>
+            
+            <l>Interviewer: "In <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "In <placeName role="52.9413115 18.5135975">Poland</placeName>, yeah, not far."</l>
+            
+            <l>Interviewer: "Did you have any brothers and sisters?"</l>
+            
+            <l>Klara Figa: "I have one sister, and I had five brothers and seven sisters, before the war."</l>
+            
+            <l>Interviewer: "Can you name your brothers and sisters?"</l>
+            
+            <l>Klara Figa: "Yes. My oldest sister was Ruth, the next was my brother Mioshe, my sister Fradel, and another sister Peppa, one more sister Lena, Lebbe, and another brother Harry, and Leon, he left in 1929 to <placeName role="-34.6034487 -58.3846926">Argentina, Buenos Aires</placeName>."</l>
+            
+            <l>Interviewer: "And after Leo?"</l>
+            
+            <l>Klara Figa: "After... After Leon was Harry, I said. Harry was the youngest, Lena was before. I think I have seven, now I have my mother's children, 6. I am the sixth. My oldest brother was Shulim, and he was in <placeName role="30.9993047 34.8010902">Israel</placeName>. And now I have a sister still alive, Rose. That's all that is left alive, is my sister and my sister-in-law who married to Shulim."</l>
+            
+            <l>Interviewer: "When you mentioned that you had the first 7, they were your mother's children?"</l>
+            
+            <l>Klara Figa: "My father's, but my mother married my father with 7 children, and she brought them up. And when older sister got married she was 15 years old."</l>
+            
+            <l>Interviewer: "Your mother was 15?"</l>
+            
+            <l>Klara Figa: "My ma.. My sister. My oldest. My father's oldest child was 15 years and the youngest was 3. Among them nobody survived... yeah, one sister survived <placeName role="61.9323362 98.44927">Russia</placeName>, her name was Peppa."</l>
+            
+            <l>Interviewer: "What happened to those childrens' mother? Your father's children..."</l>
+            
+            <l>Klara Figa: "She got a heart attack at 42, she worked very hard and couldn't survive. There was no, like now medicine. Some people when they get a heart attack even she was young, couln't do nothing."</l>
+            
+            <l>Interviewer: "So then your father married..."</l>
+            
+            <l>Klara Figa: "My mother was 20 years younger, and the Jewish law says when there is a sister not married she supposed to take caring of married, and my grandmother persuaded and she married."</l>
+            
+            <l>Interviewer: "That was your mother?"</l>
+            
+            <l>Klara Figa: "This was my mother."</l>
+            
+            <l>Interviewer: "OK. Did you all live in the same house in <placeName role="50.3838204 24.2168673">Krystynopol</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "When you were born?"</l>
+            
+            <l>Klara Figa: "Where I was born, maybe it was another house before my mother was born, because he always said that they built that house for your mother. It was a new one, maybe 32 years, the house."</l>
+            
+            <l>Interviewer: "Do you remember what the house looked like?"</l>
+            
+            <l>Klara Figa: "Oh yes, it was beautiful."</l>
+            
+            <l>Interviewer: "Can you describe it?"</l>
+            
+            <l>Klara Figa: "Yeah. Big windows, big rooms. Not many, but big ones. And one room could be the living room and dining room and the bedroom. One big room, very huge."</l>
+            
+            <l>Interviewer: "And you lived there until before the war?"</l>
+            
+            <l>Klara Figa: "Yeah, 'till the war broke out."</l>
+            
+            <l>Interviewer: "What kind of religious observation did your family practice?"</l>
+            
+            <l>Klara Figa: "Well, my father was orthodox. He was retired since I remember him. He was praying even twice a day to the Schul. And he still did business. He didn't work, but he did business because he was selling land and buying land and selling land, I don't know, he was always on the cards and soccer with lawyers and signing up the papers. So and he had a lot of people that worked for him in the summer because we had land and he raised potatoes, he raised wheat, so we had our own flour, and my mother had a lot of work to bake. And bees, too, to sugar factories, he sold. They make sugar, sugar bees."</l>
+            
+            <l>Interviewer: "So when your father sold the land he travelled around a lot?"</l>
+            
+            <l>Klara Figa: "My father never sold his own land, he bought and sold from people. He was a businessman."</l>
+            
+            <l>Interviewer: "But he travelled?"</l>
+            
+            <l>Klara Figa: "And he travelled, yeah. He was very very rarely at home except Friday night, Shabbos, Saturday."</l>
+            
+            <l>Interviewer: "So he knew a lot of people when he was travelling?"</l>
+            
+            <l>Klara Figa: "Oh yeah, people knew him, you know. And they trust him because he wrote checks, he never failed for many years."</l>
+            
+            <l>Interviewer: "When he was doing his business was he doing it with only Jewish people, or...?"</l>
+            
+            <l>Klara Figa: "No, no. Some may be Jewish, I don't know."</l>
+            
+            <l>Interviewer: "But he did business with ereybody?"</l>
+            
+            <l>Klara Figa: "Everybody. Whoever needed some land to buy, he arranged everything through a lawyer and they put on the contracts or whatever."</l>
+            
+            <l>Interviewer: "So you mentioned that you did Shabbat service at home? Can you remember it?"</l>
+            
+            <l>Klara Figa: "Yeah, Friday night I will never forget, and this is written in my mind, and I tried and I tried when the children were small to make Friday night, light the candles and make the challa my own, because my mother used to do it, and apple strudel and make stuffed chicken soup and noodles and all gefilte fish, I even have today I make, my daughter loves them, and I made it that you'd taste some."</l>
+            
+            <l>Interviewer: "I'd like to hear you describe your Shabbat service at home before the war."</l>
+            
+            <l>Klara Figa: "I had 5 brothers, they all were sitting around the table, and I was the youngest, so I was the servant. I didn't like it so I broke dishes 'till I came to the dining room, and no girls were in the dining room, just the men. We had a table in the kitchen for the women and for the girls."</l>
+            
+            <l>Interviewer: "That was the tradition?"</l>
+            
+            <l>Klara Figa: "Yeah, separate. My sister one of my sisters married a very Hasidic. He was from <placeName role="50.381129 24.0084251">Belz</placeName>, very known. He was a follower. He went with all kinds of problems, my mother too."</l>
+            
+            <l>Interviewer: "Do you remember the rabbi in your Schul?"</l>
+            
+            <l>Klara Figa: "The Rabbi? I never went to Schul with my father. When I went he took me Rosh Hashanah Yom Kippur to the women's, a separate entrance window only you could see them, the men."</l>
+            
+            <l>Interviewer: "What language did you speak at home?"</l>
+            
+            <l>Klara Figa: "Yiddish."</l>
+            
+            <l>Interviewer: "And you went to school?"</l>
+             
+            <l>Klara Figa: "I went to a Yiddish School. This school that I showed you the picture is a Yiddish School Doctor Klaftanova was the name who built it for girls. Never I had a mixed College, this was for women only."</l>
+            
+            <l>Interviewer: "So what grades did it go up to?"</l>
+             
+            <l>Klara Figa: "3 years. After 7th grade I was admitted and the war already was starting, and this was in <placeName role="61.9323362 98.44927">Russia</placeName>. They took it over so I could go because I was a refugee, because I couldn't afford it to pay this much, how much it cost in this college money. Only for rich could afford it, but we were already away from <placeName role="50.3838204 24.2168673">Krystynopol</placeName> we were in <placeName role="49.8393964 24.0290254">Lvov</placeName> for one year, and there was a school and one, the second one, and her name was in <placeName role="52.2282512 21.0089988">Warsaw</placeName>."</l>
+            
+            <l>Interviewer: "When you were in school and <placeName role="50.3838204 24.2168673">Krystynopol</placeName>, what kind of subjects did you study?"</l>
+             
+            <l>Klara Figa: "In public school just, I was in public school first seven years."</l>
+            
+            <l>Interviewer: "Can you remember what you learned?"</l>
+            
+            <l>Klara Figa: "I learned, I was good in math. And so are my children, very good."</l>
+            
+            <l>Interviewer: "What language do you speak in the public school?"</l>
+            
+            <l>Klara Figa: "Polish. I still write letters in Polish to my sister-in-law."</l>
+            
+            <l>Interviewer: "And the students in the school were Jewish and non-Jewish?"</l>
+            
+            <l>Klara Figa:  "Yeah, it was both."</l>
+            
+            <l>Interviewer: "Did you have a lot of friends?"</l>
+            
+            <l>Klara Figa: "Not really, I had just one or two. I wasn't the social type I was creative. And very young age I started to do things to see what my older sisters are doing and I learned to knit to sew to embroidery. I wasn't the social, I am now too not too much social life but I learn now. Since I go places and I drive, I got my license so it is great to be because from everybody will learn, and I can talk English and communicate, because I can read now. I couldn't read, I didn't went to school, I didn't know nobody in <placeName role="43.6589533 -70.2655864">Portland</placeName> when we came."</l>
+            
+            <l>Interviewer: "But in <placeName role="50.3838204 24.2168673">Krystynopol</placeName> you went to a public school, what was your day like?"</l>
+            
+            <l>Klara Figa: "In public school I was the best. I was very good. I learned very quick."</l>
+            
+            <l>Interviewer: "Did you get any awards?"</l>
+            
+            <l>Klara Figa: "Yes I did, I got an award not in public school, but in that College it was. It was a trade school and they learned both torah 4 hours and 4 hours a profession. This was the best life of mine, and I got awards, 300 Rubles from the <placeName role="61.9323362 98.44927">Russia</placeName>. We won a project, three girls of us. We made a cover to a quilt from little pieces from a factory, they donate leftovers, and we made something beautiful."</l>
+            
+            <l>Interviewer: "And this was after the war?"</l>
+            
+            <l>Klara Figa: "This was not after the war, but it was after the first war, in 1940."</l>
+            
+            <l>Interviewer: "Back in <placeName role="50.3838204 24.2168673">Krystynopol</placeName>, what other activities did you enjoy doing?"</l>
+            
+            <l>Klara Figa: "Well, I belonged to Beytar organization, zionist."</l> 
+            
+            <l>Interviewer: "Do you remember some of the activities that you had there?"</l>
+            
+            <l>Klara Figa: "We went hiking, it was nice with the group."</l>
+            
+            <l>Interviewer: "Did you talk about going to <placeName role="30.9993047 34.8010902">Israel</placeName>?"</l>
+            
+            <l>Klara Figa: "We were preparing for <placeName role="30.9993047 34.8010902">Israel</placeName>, and that's why my friends left in 1939 before the war came out. They left for <placeName role="30.9993047 34.8010902">Israel</placeName>, one by one. There were 8 or 6, their parents were there already. And she said there when you go, you have to sew, and learn to sew is very important. So when I knit a sweater and sent to <placeName role="30.9993047 34.8010902">Israel</placeName> to a cousin, that letter what she wrote to me, she said "you don't have to be afraid you will make a living". I made a ? for a baby, I still have it."</l>
+            
+            <l>Interviewer: "Did you think that you would go to <placeName role="30.9993047 34.8010902">Israel</placeName> when you were that age?"</l>
+            
+            <l>Klara Figa: "I only wanted there, my husband just found that there is a hard time to children."</l>
+            
+            <l>Interviewer: "But when you were young, did you think about going? When you were still a young girl?"</l>
+            
+            <l>Klara Figa: "Yeah... maybe not, but the war that they were talking about, and we saw what's going on and when Hitler started do... and <placeName role="51.051007 10.2988644">Germany</placeName> with refugees from German, they left all Polish people send it back to <placeName role="52.9413115 18.5135975">Poland</placeName> and they did a lot of trouble. They knew there is going to be war."</l> 
+            
+            <l>Interviewer: "Do you remember some of the early incidents that occurred, where you felt that things were changing before the war?"</l>
+            
+            <l>Klara Figa: "We smelled it in the air. Even some teachers weren't too friendly to the Jewish children. She made us go Saturday to school, if not the grades will be down, if we don't come."</l>
+            
+            <l>Interviewer: "Around what year was that?"</l>
+            
+            <l>Klara Figa: "(19)39. Uh... (19)38!"</l> 
+            
+            <l>Interviewer: "Do you remember that being done?"</l>
+            
+            <l>Klara Figa: "No, she didn't do nothing, but she said in Polish that someday Hitler will come to you."</l>
+            
+            <l>Interviewer: "What did you think about that? When she said it?"</l>
+            
+            <l>Klara Figa: "Nobody could say nothing, because the children just refused. All the Jewish parents didn't let go on Saturday because we can go Sunday but not Saturday to school."</l> 
+            
+            <l>Interviewer: "Did you have any friends in school that were not Jewish?"</l>
+            
+            <l>Klara Figa: "No, no. I only had Jewish. We were segregated, we were different and other people because I was brought up different, and I feel good and comfortable to belong where I belong."</l>
+            
+            <l>Interviewer: "So the... where your house was, the houses near your house we're also Jewish families?"</l>
+            
+            <l>Klara Figa: "The neighborhood was all Jewish. my mother's... my father's... my mother's sister, my father's brother, that side the house was my father's sister. It was a few not family but Jewish. We weren't mixed. There was one street that was a non-Jewish. In this street I never went, I don't know why I never went this way. I went to other way where it leads to school, that's all. I was too young to understand much, but I felt that... I don't know, I didn't know much that I learned to grow up very quick. I knew I need a profession and my mother helped me. She had the sister who, niece, who went with me when the war broke out when we were in roof and she couldn't make it that they take me to school. I had to make a test and I was afraid I wouldn't make it. So in German I had to, and other language I don't remember what else, to make a test, takes me while they were already in the beginning 2 months behind I am. So my sister, if they didn't took me my sister had a friend from <placeName role="50.4021367 30.2525019">Kiev</placeName>, he was Jewish, and he was a, I don't remember, in a uniform, he was a very famous engineer or something, in the army."</l>
+            
+            <l>Interviewer: "Polish Army?"</l>
+            
+            <l>Klara Figa: "No, in Russian. This was in the Russian, when I was in <placeName role="49.8393964 24.0290254">Lvov</placeName> in <placeName role="52.9413115 18.5135975">Poland</placeName>. When Russian took <placeName role="52.9413115 18.5135975">Poland</placeName> I went to that school, all-girls school, and I loved it very much."</l>
+            
+            <l>Interviewer: "What year did you leave <placeName role="50.3838204 24.2168673">Krystynopol</placeName>?"</l>
+            
+            <l>Klara Figa: "(19)39."</l>
+            
+            <l>Interviewer: "Do you remember leaving?"</l>
+            
+            <l>Klara Figa: "Oh yeah, I was... I was on a horse and ? With all the clothes, and behind another my brother had the horses, we had our own, and we moved almost everything, what we could. Even a machine to sew."</l>
+            
+            <l>Interviewer: "Why did you move?"</l>
+            
+            <l>Klara Figa: "We moved because when Hitler came into our town, it was a disaster what we saw can happen to the children, and people who ran out from burning houses, and they screamed "Halt" and whoever didn't stop, and ran to the woods to save their lives, they shot in the back."</l>
+            
+            <l>Interviewer: "So how were you able to get out?"</l>
+            
+            <l>Klara Figa: "Yo see? I'll tell you a story, this is a miracle. Our family, my sister that is in <placeName role="30.9993047 34.8010902">Israel</placeName>, she had non-Jewish friends, a lot of them. She was very close. So her friend was living next door and we had a big cellar with closets from bricks for wine, my mother used to make her own, it was the place to protect from bombing, and they bombed near us maybe 5 yards away. Was the cemetery, a non-Jewish. And she, that lady was pregnant and she was newlywed, and she was in our cellar friend to my sister, her husband came down the cellar too, and he was from German descent, he talked German. After the fire and all those things stopped, he went out to look around because he felt he's German, he's one of them. But really he was our friend, because his wife was in our cellar and good friends with my sister. And they asked, "Is there any Jews around here?", he said "No"."</l>
+            
+            <l>Interviewer: "Who asked that question?"</l>
+            
+            <l>Klara Figa: "One of the German soldiers from the tanks that they came. Well it didn't took long, this was the beginning that we learned and that's why so many people survived from our town."</l>
+             
+            <l>Interviewer: "This was 1939?"</l>
+            
+            <l>Klara Figa: "Yes."</l>
+            
+            <l>Interviewer: "Do you remember what month?"</l>
+            
+            <l>Klara Figa: "I think it was like Yom Kippur/Rosh Hashanah, in the fall."</l>
+            
+            <l>Interviewer: "In the fall?"</l>
+            
+            <l>Klara Figa: "Yeah. Because we has everything flour and potatoes, everything was already from the field in the house, in the barn or whatever."</l>
+            
+            <l>Interviewer: "How much after that incident, how long after that incident did you leave?"</l>
+            
+            <l>Klara Figa: "I didn't understand the question."</l>
+            
+            <l>Interviewer: "After the incident where you were in the cellar and there was fire and people were being shot."</l>
+            
+            <l>Klara Figa: "All what is left is chimneys, and those who survived ran to the woods without anything left."</l>
+            
+            <l>Interviewer: "And you left?"</l>
+            
+            <l>Klara Figa: "No, our house and the neighborhood nobody was touched. It was a miracle!"</l> 
+            
+            <l>Interviewer: "And then you left after that?"</l>
+            
+            <l>Klara Figa: "Yeah."</l> 
+            
+            <l>Interviewer: "To <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "To <placeName role="50.4862752 24.2795734">Sokal</placeName> first, because with the horses you cannot go to <placeName role="49.8393964 24.0290254">Lvov</placeName>, we had to sell out everything, the products that we had after the season."</l>
+            
+            <l>Interviewer: "Who did you sell it to?"</l>
+            
+            <l>Klara Figa: "My brother was a businessman and he helped my father and he is shipping it all over <placeName role="52.9413115 18.5135975">Poland</placeName>, potatoes... He took orders and we have to think, and he had separate and he rented a place for the wheat or I don't remember what he done we. I know he was in the business, close to my father. So..."</l>
+            
+            <l>Interviewer: "So you went to <placeName role="49.8393964 24.0290254">Lvov</placeName> in 1939?"</l>
+            
+            <l>Klara Figa: "I went and my sister, and another sister was in <placeName role="49.8393964 24.0290254">Lvov</placeName> working for 5 years and she got a passport for 5 years, a normal passport like a citizenship. We couldn't get this because we didn't belong to <placeName role="49.8393964 24.0290254">Lvov</placeName> we were from <placeName role="50.3838204 24.2168673">Krystynopol</placeName>, refugees. So, somehow, I don't remember how it was, we settled my sister found a rent for us and we were there one year."</l>
+            
+            <l>Interviewer: "And you went with your father and mother?"</l>
+            
+            <l>Klara Figa: "My father, my mother, my sister and another sister and a brother. And one brother was missing, just when they took us in the night, from <placeName role="49.8393964 24.0290254">Lvov</placeName>. My brother was learning a profession to be, and he got some money for it, paid, auto mechanic. He was very good in mechanical things. So he went to school, and he wasn't home Friday night when they took us all. So that brother had bad luck, because he was mama's boy and he was never away. He was maybe 19 or 20. We went, when they took us after a year, I didn't even took the report card, but my sister took it out and he send it over which was the best in <placeName role="49.8393964 24.0290254">Lvov</placeName>. One year only, and I catched up with all of them, because I knew Jewish it was a Jewish school all girls and the children didn't know Jewish so it was for them hard to learn the beginning. For me it was easy because I learned when I was very young to ? and to write letters Jewish, I did."</l>
+            
+            <l>Interviewer: "Did you feel safe in <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "Oh yeah, my mother's brother, my mother's sister they all were in <placeName role="49.8393964 24.0290254">Lvov</placeName>. She always wanted to move, not to be in a farm house. The home was nice but it's a small town, there is no places she said for the children to grow up she understand what I needed, and for me it was a miracle that school. I had one year, a good one, in my whole life. So... and I have also an opportunity in Russia to get a good job, a government job."</l>
+         </p>
+         
+         <p>
+            <l>Interviewer: "The date is <date when="1996-07-28">July 28th, 1996</date> and we are in <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>. Mrs. Figa, you were describing how your life was in <placeName role="49.8393964 24.0290254">Lvov</placeName>, and you mentioned that you felt safe there? How long did you live in <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+      
+            <l>Klara Figa: "One year."</l>
+            
+            <l>Interviewer: "Do you remember anything else about living there?"</l>
+            
+            <l>Klara Figa: "I went for the first time on a circus with friends. I had good friends, and this was a Jewish school, so I had friends, Jewish. And they came over to the house, we worked together. I really enjoyed to socialize with those kids, and I helped them out with what I know and they had a harder time, because I knew a lot about the Jewish language and the Polish, and math I was good. When you are good, you have a lot of friends."</l>
+            
+            <l>Interviewer: "So you were in <placeName role="49.8393964 24.0290254">Lvov</placeName> in 1939?"</l>
+            
+            <l>Klara Figa: "Yeah, 1939."</l>
+            
+            <l>Interviewer: "When did things start to change for you in <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "In <placeName role="49.8393964 24.0290254">Lvov</placeName>, we were 'till the end of the year in my school. The day it ended, Friday, Friday night 2 o'clock, the Russians soldries just came with a list and with ? an knocked in the door. Everybody was up, we opened the door and they came in. A few, 2 or 3, I can't remember. And I wasn't on the list, because I was a minor, I was only 15. Before 16 you are a minor."</l>
+            
+            <l>Interviewer: "What was the list for?"</l>
+            
+            <l>Klara Figa: "For, to take the family, my father my mother, my sister was there. And one of my sister was 5 years before the war there so she had a passport, because we haven't got any Russian passports, natural, like, not... not citizen, we were refugees, and no one from where we are. I don't know where they got that list, but everybody had to pack, and was waiting a big truck downstairs."</l> 
+            
+            <l>Interviewer: "Where did they tell you you were going?"</l>
+            
+            <l>Klara Figa: "No. We didn't know."</l>
+            
+            <l>Interviewer: "You didn't know."</l>
+            
+            <l>Klara Figa: "Nobody know."</l>
+            
+            <l>Interviewer: "Did you know why you were being told to go?"</l>
+            
+            <l>Klara Figa: "I knew only that I won't be living here alone without my parents, so I asked the soldier "Can I go with my mother and father?", to put me on the list. He said "Yes, if you want to go, you can go, but you have to be ready in 10 minutes."</l>
+            
+            <l>Interviewer: "How did you travel?"</l>
+            
+            <l>Klara Figa: "Pardon me?"</l>
+            
+            <l>Interviewer: "How did you travel when you went? What was that like?"</l>
+            
+            <l>Klara Figa: "It was terrible. In those wagons with just an opening to go to the bathroom. We were cattles, you'd think."</l> 
+            
+            <l>Interviewer: "It was a train?"</l>
+            
+            <l>Klara Figa: "Train, yeah. With small window to look out, one or two. 3 weeks we were travel, we didn't know where we were wind up."</l>
+            
+            <l>Interviewer: "How many people would you say were on the train?"</l>
+            
+            <l>Klara Figa: "24 people."</l>
+            
+            <l>Interviewer: "24 people?"</l>
+            
+            <l>Klara Figa: "In... In a, you know, in a room or in a train , you know."</l>
+            
+            <l>Interviewer: "How did you eat?"</l>
+            
+            <l>Klara Figa: "They serve once a day soup, and who had money bought themselves hard boiled eggs at the station they sold. They bring them, you know, people who want to make money."</l>
+            
+            <l>Interviewer: "Were all the people in the train Jewish?"</l>
+            
+            <l>Klara Figa: "No. Refugees is no Jewish and Jewish, both."</l>
+            
+            <l>Interviewer: "So you were together with Jewish and non-Jewish refugees?"</l>
+            
+            <l>Klara Figa: "Right."</l>
+            
+            <l>Interviewer: "Going from <placeName role="49.8393964 24.0290254">Lvov</placeName>..."</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "And you didn't know where you were..."</l>
+            
+            <l>Klara Figa: "We didn't know for 3 weeks, we were travelling."</l> 
+            
+            <l>Interviewer: "What time of the year was that?"</l>
+            
+            <l>Klara Figa: "I told you, when the end of school."</l>
+            
+            <l>Interviewer: "In the summer?"</l>
+            
+            <l>Klara Figa: "The same day that school ended, Friday, they took us Friday night."</l>
+            
+            <l>Interviewer: "Was it hot in the train?"</l>
+            
+            <l>Klara Figa: "I don't remember, I was young."</l>
+            
+            <l>Interviewer: "You don't remember?"</l>
+            
+            <l>Klara Figa: "I don't remember, I was hungry, that's true. I didn't eat what I should. So it was very hard for my mother, and she took care of me, whatever she can. My sister, who was behind, came to the station, because they didn't left, we didn't left. The wagon wasn't full yet, so 'till it took probably a day, so they brought and find us, in which wagon we are, and brought us baked stuff."</l>
+            
+            <l>Interviewer: "Did the train make stops in different locations?"</l>
+            
+            <l>Klara Figa: "Uhhh... just for go to the bathroom for somebody, maybe. I don't remember."</l>
+            
+            <l>Interviewer: "Were you...Do you remember if you were abe to go in and out of the train by yourself?"</l>
+            
+            <l>Klara Figa: "Oh no, no. They locked those iron board things outside, they locked so nobody can go out."</l>
+            
+            <l>Interviewer: "Who was in charge?"</l>
+            
+            <l>Klara Figa: "Russian soldiers."</l>
+            
+            <l>Interviewer: "How did they treat you?"</l>
+            
+            <l>Klara Figa: "Good."</l>
+            
+            <l>Interviewer: "Did you speak their language?"</l>
+            
+            <l>Klara Figa: "Yeah, I knew Russian because where I live is Ukraine, and this is very similar to Russian. That's why I learned very quick."</l>
+            
+            <l>Interviewer: "Do you remember hearing any conversations from the people in the train about where you were going?"</l>
+            
+            <l>Klara Figa: "Nobody knew. Nobody knew where they 'gonna bring us. And after we finally arrived, my father jumped down from the train, they all said "Oh what a strong man". At this age, he jumped down like a boy. He was swimming. Oh, he was a great swimmer."</l>
+            
+            <l>Interviewer: "How old was your father at that time?"</l>
+            
+            <l>Klara Figa: "74."</l>
+            
+            <l>Interviewer: "So, your final destination on that train ride ended up where?"</l>
+            
+            <l>Klara Figa: "We came to <placeName role="60.9826123 62.6890321">Sukholozhsk Nisfeld Lovsk</placeName>, this was a labor camp, and it was a lot of woods and my father knew how to survive."</l>
+            
+            <l>Interviewer: "The labor camp was part of <placeName role="61.9323362 98.44927">Russia</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah. It's Russia."</l>
+            
+            <l>Interviewer: "Do you remember what the camp looked like?"</l>
+            
+            <l>Klara Figa: "Barracks. My brother, my brother's friend, they were making the trees they lay down, and they were wet with worms, not dry yet. I was the one who shoveled the muck off off the trees, and had blisters all over my hands. Without any gloves."</l>
+            
+            <l>Interviewer: "Why were they doing that?"</l>
+            
+            <l>Klara Figa: "That's when my mother saw this. They put to work. My sister got sick, she went to the hospital."</l>
+            
+            <l>Interviewer: "They were told to do that?"</l>
+            
+            <l>Klara Figa: "Yeah, they stayed and supervised that you don't sit down. Do nothing."</l>
+            
+            <l>Interviewer: "Were they strict?"</l>
+            
+            <l>Klara Figa: "Pardon me?"</l>
+            
+            <l>Interviewer: "Were they strict?"</l>
+            
+            <l>Klara Figa: "Yeah, very strict."</l>
+            
+            <l>Interviewer: "What would happen if somebody didn't do what they were told?"</l>
+            
+            <l>Klara Figa: "They will send them away from their family. One was a neighbor next, the Rabbi, he didn't want Saturday to work. Nobody knew where he disappeared. They sent him away, far away, from his children, babies his wife had, too."</l>  
+            
+            <l>Interviewer: "So when you were int the labor camp you were able to stay as a family?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "Did you, what... what..."</l>
+            
+            <l>Klara Figa: "If you don't do something  that is not pleasing them, you understand?"</l>
+            
+            <l>Interviewer: "What did the room look like where you lived?"</l>
+            
+            <l>Klara Figa: "The room? It was one room, and there was 6 beds one on top of the other. And it was horrible tight. Very tight. That's all, we haven't got any kitchen, just hot water and I think coffee they serve. That's it, and bread."</l>
+            
+            <l>Interviewer: "What food did they give you?"</l>
+            
+            <l>Klara Figa: "Bread and coffee or tea or water."</l>
+            
+            <l>Interviewer: "For the whole day?"</l>
+            
+            <l>Klara Figa: "For the whole day. If somebody had money or possessions or clothes, they were very very poor, the people there near, about a mile. So I walked, I brought some... a pale I had, for milk for my father, and me and my girlfriend brought home milk and I gave away my, I had dresses made. I made myself. I saw the children there and I saw they need clothes, they were naked. So I made clothes, and they gave me milk and whatever, I cannot remember what. 'Till I came home I got once lost, but I was with my girlfriend, and my mother organized maybe 10 people, and they surrounded the woods, because this was a mile away, the... It was a... not a river but a place that they were having fish and cows, little farming. So... and I got lost almost, but I wasn't lost. I lost the path that I came before, when I went there, but it came back.  My mother was scared, she was crying. So..."</l>
+            
+            <l>Interviewer: "When you said you worked, what time of day did you start working?"</l>
+            
+            <l>Klara Figa: "Where do you mean?"</l>
+            
+            <l>Interviewer: "In the camp."</l>
+            
+            <l>Klara Figa: "In the camp. I start working because all my girlfriends worked. They had to go right away to work."</l>
+            
+            <l>Interviewer: "So what time of the day did you start? Did you start early in the morning?"</l>
+            
+            <l>Klara Figa: "Yeah, in the morning."</l>
+            
+            <l>Interviewer: "And how long did you work?"</l>
+            
+            <l>Klara Figa: "Probably 6 hours? Or 8 hours? I don't remember. I remember only the blisters that my mother saw on my hands, and she went and made me younger, 2 years. Instead of 15 she made me 13. And it worked."</l>
+            
+            <l>Interviewer: "How did she do that? Did she... How did she make you younger?"</l>
+            
+            <l>Klara Figa: "It's a miracle. I had some documents from school, and she put on instead of a "5", she made a "3" and she came "she was born, she's my baby" and she did it!"</l>
+            
+            <l>Interviewer: "So how did you spend your day as a younger child? What did you do during the day?"</l>
+            
+            <l>Klara Figa: "I went to school."</l>
+            
+            <l>Interviewer: "You went to school?"</l>
+            
+            <l>Klara Figa: "I learned Russian, I learned songs, and I had a teacher and I was just a normal child. My mother did so much for me."</l>
+            
+            <l>Interviewer: "And the children in the school were Jewish and non-Jewish?"</l>
+            
+            <l>Klara Figa: "Yeah. Russian."</l>
+            
+            <l>Interviewer: "Was there any difference in the way they were treated?"</l>
+            
+            <l>Klara Figa: "No, no. No, I was very happy. She did for my in <placeName role="52.9413115 18.5135975">Poland</placeName>, in <placeName role="49.8393964 24.0290254">Lvov</placeName>, she did for me here, saved my life. And now I have my own mother."</l>
+            
+            <l>Interviewer: "How long were you in the camp?"</l>
+            
+            <l>Klara Figa: "One year."</l>
+            
+            <l>Interviewer: "Do you remember anything else about the camp life?"</l>
+            
+            <l>Klara Figa: "There was no life for me. I had no clothes, I had to sew by hand a dress to earn some money to pay for milk."</l>
+            
+            <l>Interviewer: "Did you feel safe there?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "But you were not free to do whatever you wanted?"</l>
+            
+            <l>Klara Figa: "Well, we find ways how to... how to get a... a exit, to go out from the camp."</l>
+            
+            <l>Interviewer: "How was that?"</l>
+            
+            <l>Klara Figa: "I went to the director, he was a... He was a Tatar, from the Tatars, and very strict. But I came with my mother, she was afraid that I was young, that he will do something to me. She was sitting in the outside, in the hall, when I went in. And I got a permit to the dentist, and I bring salami and everything, whatever, whatever I could for exchanging clothes."</l>
+            
+            <l>Interviewer: "Outside the camp?"</l>
+            
+            <l>Klara Figa: "Yeah. In <placeName role="60.9826123 62.6890321">Sukholozhsk</placeName>. That's why I remember it, I had to go by train. It was not a real trian, but it was a... It was with wood or with coal."</l>
+            
+            <l>Interviewer: "When you traveled, were you able to um... um... let people know that you were Jewish, or did you have to hide that?"</l>
+            
+            <l>Klara Figa: "No, there wasn't at that time Jewish or non-Jewish. The non-Jewish people were in camp, just like we are. Refugees."</l>
+            
+            <l>Interviewer: "But when you were outside the camp and you were travelling, was it safe for you?"</l>
+            
+            <l>Klara Figa: "For me was safe because I was lucky, people were good to me. Wherever, they helped me out, to show me where or to help me out. There was a... a friend. My sister, she made friends. She was in the hospital there, and she made connection. So, she gave away her blouses, her beautiful clothes that she liked, the nurse, and she gave sour cream with... you know. Things, cheese... Things that you cannot buy there, in camp."</l>
+            
+            <l>Interviewer: "So you brought back the food to your family?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "But if you had not done that, you... What kind of food would you have been able to eat?"</l>
+            
+            <l>Klara Figa: "We had two weeks only took us, from <placeName role="52.9413115 18.5135975">Poland</placeName> from <placeName role="49.8393964 24.0290254">Lvov</placeName> send us a big package with lima beans and peas and all kind to cook."</l>
+            
+            <l>Interviewer: "Who sent that?"</l>
+            
+            <l>Klara Figa: "My sister who was behind."</l>
+            
+            <l>Interviewer: "From <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "From <placeName role="49.8393964 24.0290254">Lvov</placeName>, she was still in this appartment where we lived, and we left everything. She didn't have to buy, we left everything. Just took so much that we can, like a rucksack only."</l>
+            
+            <l>Interviewer: "What year was that about?"</l>
+            
+            <l>Klara Figa: "1939. Uh... 1940, because I went one year in <placeName role="49.8393964 24.0290254">Lvov</placeName> to school. This was when the year finished, in 1940."</l>
+            
+            <l>Interviewer: "Did you hear from her again after that?"</l>
+            
+            <l>Klara Figa: "From my sister?"</l>
+            
+            <l>Interviewer: "Yes."</l>
+            
+            <l>Klara Figa: "She sent 3, 4, 5 packages food plenty. Only when she got our address she sent away."</l>
+            
+            <l>Interviewer: "And this was the address..."</l>
+            
+            <l>Klara Figa: "And my brother sent, too."</l>
+            
+            <l>Interviewer: "The address in the camp?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "How long were you in the camp?"</l>
+            
+            <l>Klara Figa: "One year."</l>
+            
+            <l>Interviewer: "What happened that you had to leave?"</l>
+            
+            <l>Klara Figa: "We didn't have to leave, but they gave us wherever we want when the war with <placeName role="61.9323362 98.44927">Russia</placeName> and German broke out. They liquidate this camp, because they had, from the Polish government, Sikorski was his name, from him to leave their people free. See, Polish people were there."</l>
+            
+            <l>Interviewer: "So the people in the camp..."</l>
+            
+            <l>Klara Figa: "And army wives, maybe. There was a lot of Polish, too."</l>
+            
+            <l>Interviewer: "So the people in the camp, in 1940, were able to go..."</l>
+            
+            <l>Klara Figa: "Were free to go wherever you only wish in <placeName role="61.9323362 98.44927">Russia</placeName>."</l>
+            
+            <l>Interviewer: "Where did some people go?"</l>
+            
+            <l>Klara Figa: "I don't know. I know my mother believed in the Rabbi and he was next door to us, and he said "I'm going to <placeName role="39.7725263 64.418142">Bukhara</placeName>. I choose to die there."."</l>
+            
+            <l>Interviewer: "What was the reason for <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Because it's a holy land. Holy land, just like in <placeName role="30.9993047 34.8010902">Israel</placeName>. And he wants to die there, so he choose with his wife and his children, and we went with the children too, my father, my mother we all went. But we haven't got any money, so my... No, my father passed away there. 6..."</l>
+            
+            <l>Interviewer: "In the camp?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "How did he pass away?"</l>
+            
+            <l>Klara Figa: "He went... I went with him to the hospital, to <placeName role="60.9826123 62.6890321">Sukholozhsk</placeName>, and on the way when he came there he said, "I feel bad. I wanna go home back."  to my mother. But I knew that he need a hospital, so I said "it's OK, my sister is there in the same hospital, so she will take care of you."</l>
+            
+            <l>Interviewer: "In the camp, the hopital..."</l>
+            
+            <l>Klara Figa: "In that... In that <placeName role="60.9826123 62.6890321">Sukholozhsk</placeName>. So she was there, my brother told me, my sister-in-law, when I was in <placeName role="30.9993047 34.8010902">Israel</placeName>, she said "I went to see your father in the hospital before he died." She didn't told me nothing. They brought him on a horse in bag, without notifying that he was sick, that he's dying, that he died. I didn't know."</l>
+            
+            <l>Interviewer: "What was he sick from?"</l>
+            
+            <l>Klara Figa: "Kidney. He ate salt, he shouldn't eat. Bladder, kidney, it goes together, I don't know."</l>
+            
+            <l>Interviewer: "So when you left the camp, you left with your mother?"</l>
+            
+            <l>Klara Figa: "With my mother, with my brother, he was... who married there, in camp."</l>
+            
+            <l>Interviewer: "Your brother got married in the camp?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "Do you remember when he got married?"</l>
+            
+            <l>Klara Figa: "The wedding? Yeah."</l>
+            
+            <l>Interviewer: "Can you describe it?"</l>
+            
+            <l>Klara Figa: "They danced, she put on a nice dress she had clothes, and... I don't remember, I wasn't there."</l>
+            
+            <l>Interviewer: "But it was allowed to happen? They allowed it?"</l>
+            
+            <l>Klara Figa: "Yeah, they gave 8 days free of work. She didn't went to work."</l>
+            
+            <l>Interviewer: "So he got married in the camp?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "And he went with his wife, and your mother, and who else left the camp?"</l>
+            
+            <l>Klara Figa: "My mother and my sister came out from the hospital, and she start talking! She lost her voice by working in the... with a saw, the pieces of wood that we lay down, the trees. And she wanted to go back to <placeName role="52.9413115 18.5135975">Poland</placeName>, she had a boyfriend left, and she thought that she will be able. The papers came already, that she can go, and lucky she didn't because he died and she would be died. When she goes back to <placeName role="52.9413115 18.5135975">Poland</placeName> would be no hope. She survived."</l>
+            
+            <l>Interviewer: "Did you get... Were you getting any information about what was happening in <placeName role="52.9413115 18.5135975">Poland</placeName> when you were in the camp?"</l>
+            
+            <l>Klara Figa: "No, we didn't know, but they wrote secretly that "We might envy you". They knew that's gonna be another war."</l>
+            
+            <l>Interviewer: "This was your sister in <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "My sister, my brother. My brother was 20, and he never was away from home. He was the victim, and I don't know about my sister, how she died."</l>
+            
+            <l>Interviewer: "Do you know how your brother died?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "How did he die?"</l>
+            
+            <l>Klara Figa: "Well, he was hiding in a Christian home, and something happened that they were afraid, they threatened that they gonna kill the whole family who hide my brother, so they let him go outside, and when he only went out on the street the Ukrainian... with an haxe..."</l>
+            
+            <l>Interviewer: "An axe?"</l>
+            
+            <l>Klara Figa: "Axe. Chopped him up to pieces on the street. And that letter came, and I read it. It was horrible."</l>
+            
+            <l>Interviewer: "How old was he?"</l>
+            
+            <l>Klara Figa: "21."</l>
+            
+            <l>Interviewer: "And this was in <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "Did you uh..."</l>
+            
+            <l>Klara Figa: "No, maybe, he wasn't in <placeName role="49.8393964 24.0290254">Lvov</placeName>, because he had to leave because refugees should leave 100 kilometer ffrom <placeName role="49.8393964 24.0290254">Lvov</placeName>. In a... In a different direction, and not to leave... to live in. Because he haven't got a a passport, just like we haven't got. But he wasn't home when they took us."</l>
+            
+            <l>Interviewer: "So the... Do you know if the people in the labor camp knew what was happening back in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "No, we didn't know. We wanted to go back and tell what we sur... are. How we are... terrible going through. Terrible thing."</l>
+            
+            <l>Interviewer: "Did the Russian officials tell you what was happening in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "I didn't read the Russian paper, and I didn't listen to radio, we haven't got a radio. So... I worked because one of the family has to work, to get bread. So my sister find me a job."</l>
+            
+            <l>Interviewer: "And where is this?"</l>
+            
+            <l>Klara Figa: "In a cellar, with machines. And I sewed, for the army, shirts. Army shirt."</l>
+            
+            <l>Interviewer: "This is in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "In <placeName role="39.7725263 64.418142">Bukhara</placeName>."</l>
+            
+            <l>Interviewer: "Before we go into that, can you... Do you remember travelling to <placeName role="39.7725263 64.418142">Bukhara</placeName>? What that was like?"</l>
+            
+            <l>Klara Figa: "This was, I told you, 3 weeks. We were travelling. We didn't know where we would wind up, but when we were freed, we went to <placeName role="39.7725263 64.418142">Bukhara</placeName> with a train, a normal train we paid money for."</l>
+            
+            <l>Interviewer: "You paid and your..."</l>
+            
+            <l>Klara Figa: "My mother sold her wedding fur coat, and this was quick because it was beautiful, and there is cold, very cold in ?. And we sold that, it was enough for all 4 of us, my 2 sisters and my mother and me, and my brother and sister-in-law went with us, too."</l> 
+            
+            <l>Interviewer: "So you travelled to <placeName role="39.7725263 64.418142">Bukhara</placeName>,"</l>
+            
+            <l>Klara Figa: "Together."</l>
+            
+            <l>Interviewer: "and it was a better trip than the one that you took from <placeName role="52.9413115 18.5135975">Poland</placeName> to the camp? The trip was better?"</l>
+            
+            <l>Klara Figa: "I didn't get..."</l>
+            
+            <l>Interviewer: "The travelling in the train to <placeName role="39.7725263 64.418142">Bukhara</placeName>,"</l>
+            
+            <l>Klara Figa: "Oh yeah."</l>
+            
+            <l>Interviewer: "was more comfortable?"</l>
+            
+            <l>Klara Figa: "It was more comfortable, but it was... You could see from all over the world, from <placeName role="46.7005375 27.5147877">Odessa</placeName>, from... refugees. Full. It was packed. Everybody went this way, away from Hitler, because he went fast."</l>
+            
+            <l>Interviewer: "These were Jewish refugees?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "What did people think when they saw those refugees? Do you know what they were thinking?"</l>
+            
+            <l>Klara Figa: "Well, they help out. The people were nice, the Russian people were very helpful."</l>
+            
+            <l>Interviewer: "How did they help?"</l>
+            
+            <l>Klara Figa: "With what they could, they help. At work or with food or something."</l>
+            
+            <l>Interviewer: "How long was the trip from the labor camp to <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l> 
+            
+            <l>Klara Figa: "I think... I don't remember. I don't remember, I was so miserable."</l>
+            
+            <l>Interviewer: "Can you... Do you remember coming to <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "What was that like?"</l>
+            
+            <l>Klara Figa: "I came to <placeName role="39.7725263 64.418142">Bukhara</placeName>. My sister was the head of the family because mine father passed away, and she arranged, she knew, for our friends, appartments. She found someone from <placeName role="49.8393964 24.0290254">Lvov</placeName> that he recognized her. He was a policeman in <placeName role="49.8393964 24.0290254">Lvov</placeName>, a Jewish man, and he made business. He gave an appartment for friends, for us and this was very important that she's in business, she knows somebody. She was a... very good with people. She was mature, older, she knew what she can do."</l>
+            
+            <l>Interviewer: "So did you live together with your family?"</l>
+            
+            <l>Klara Figa: "I was a child, whatever she did, I know I was secure. I can depend on her."</l>
+            
+            <l>Interviewer: "And you were able to stay together as a family in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah, yeah. Even we took a family in, childless, a married couple. And she worked in the night with her husband, in the same factory where my sister arranged for me to have a job, and to get a card for the whole family. If one person only worked, is enough to get the food."</l>
+            
+            <l>Interviewer: "How were you treated as a, a... Jewish people how were you treated in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Oh... Very good, very good. It depends what you are, it is... You have to work, you have to make a name and you have to do what you are able, and god gave me a... a... I don't know what, a gift, that I could knit. There was so cold, and I made them shawles, and I made them dreses for children, naked. I did so much without the machine. My hand was a machine. I brought for my mother, my sister, she was sick. Well, a family can only survive when they are together. I wouldn't be here with my family, but they come and help me, I wouldn't be able to survive alone. I'm not alone, I don't feel I am alone. By telephone she called me from <placeName role="51.051007 10.2988644">Germany</placeName>, every week, because they knows I have a book and she wants to read it. From my cousin, it's here on the table. My daughter was crying all day, she said, from the train, from the plane, 'till here, when she read that Holzman is in it, <placeName role="50.3838204 24.2168673">Krystynopol</placeName> is in it, in the book. And she didn't know nothing. Those too young as what was born in this house. 'Till she went to Brandeis she didn't know about it. "</l>
+         </p>
+         <p>
+            <l>Interviewer: "Today's date is <date when="1996-07-28">July 28th, 1996</date>. and we are in <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>. Mrs. Figa, you were describing your family's life in <placeName role="39.7725263 64.418142">Bukhara</placeName>, how long were you in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "We were 5 years."</l>
+            
+            <l>Interviewer: "And the date... And the year that you arrived was?"</l>
+            
+            <l>Klara Figa: "In '40."</l>
+            
+            <l>Interviewer: "1940?"</l>
+            
+            <l>Klara Figa: "1940."</l>
+            
+            <l>Interviewer: "And you stayed there until 19..."</l>
+            
+            <l>Klara Figa: "45."</l>
+            
+            <l>Interviewer: "So you worked as a seamstress?"</l>
+            
+            <l>Klara Figa: "For one year, as a seamstress, and after that year I had trouble with my eyes. And I had from the cotton that... that blue, and I had... very bad. And mine, and I got also infected from Typhus, from other staying in the line, you know. That was very very bad at that time. After I got sick my mother didn't let me go back."</l>
+            
+            <l>Interviewer: "To work?"</l>
+            
+            <l>Klara Figa: "No."</l>
+            
+            <l>Interviewer: "Did you live in a community? With other Jewish families in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah, mixed. Not in segregation, mixed."</l>
+            
+            <l>Interviewer: "Were... Was any information coming in to you about <placeName role="52.9413115 18.5135975">Poland</placeName>, what was happening?"</l>
+            
+            <l>Klara Figa: "Whoever listened to radio or talking just from mouth to mouth what's going on, but nobody knew exactly much. And there was a survival thing, everybody was looking how to make a living to eat there was, the worst thing is to have... But if you have money you could buy. There was grapes and peaches and they grow there onions a lot, carrots a lot - tons. On the market open."</l>
+            
+            <l>Interviewer: "And who in your family was working?"</l>
+            
+            <l>Klara Figa: "Who was working?"</l>
+            
+            <l>Interviewer: "Yes."</l>
+            
+            <l>Klara Figa: "Me, only."</l>
+            
+            <l>Interviewer: "What happened to your sisters?"</l>
+            
+            <l>Klara Figa: "My sister is a businesswoman, and she arranged with other people she met, she gave them rents and she made other arrangements. She had some jewelry she sold and she bought and... she was a businesswoman. And from our town there was a lot of people she gave them rents, and this was her survival. I was good, but I couldn't work, because my mother didn't let me. I would've get blind if I would be there in this situation where she found me. She was supposed to give me a job in a library, so I was excited I will learn something. At my age, to go in a factory with nobody was in this age there, older people."</l>
+            
+            <l>Interviewer: "How old were you then?"</l>
+            
+            <l>Klara Figa: "Pardon me?"</l>
+            
+            <l>Interviewer: "How old were you then? In <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "15 and a half."</l>
+            
+            <l>Interviewer: "So, did you get the job at the library?"</l>
+            
+            <l>Klara Figa: "No. This was the job she found for me."</l>
+            
+            <l>Interviewer: "Besides living with your family, were you able to make friends? Young friends uh... In <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Yes, I had a few. Yeah. They all died on Typhus, I survived because my mother cooked chicken soup and bring me in the hospital."</l>
+            
+            <l>Interviewer: "So a lot of people were sick with Typhus?"</l>
+            
+            <l>Klara Figa: "Oh, this side and this side, there wasn't room in a hospital, so they made from a school. They closed down the school and there put on beds, and my brother brought me on his shoulders, I weighd maybe 20 pounds - 30 pounds, and he brought me to the hospital - this was a school."</l>
+            
+            <l>Interviewer: "Was there medicine?"</l>
+            
+            <l>Klara Figa: "There was, You know what I've done with medicine? I put it in the drawer behind me so they don't know. I didn't swallow one."</l>
+            
+            <l>Interviewer: "Why not?"</l>
+            
+            <l>Klara Figa: "I don't believe in medicine. I couldn't swallow, I never took a pill, so my mother brought Jewish medicine - chicken soup. Oh, this was delicious. She stayed through the window and knocked in the window, becuase it was infected, Typhus, so you cannot go in. Through the window, I opened up and she brought in. She brought in wine, mine brother worked in a wine factory, also my sister gave him the job through a friend, and this was squeezed out, not with alcohol, "Kagoro" it's called.  And there is a lot of grapes, in <placeName role="39.7725263 64.418142">Bukhara</placeName>, so they make wine and my brother took a tour to <placeName role="55.7556385 37.6141884">Moscow</placeName> and delivered the wine."</l>
+            
+            <l>Interviewer: "How long were you sick?"</l>
+            
+            <l>Klara Figa: "10 days. It takes 10 days, the temperature, 'till it lets go. And I will never forget when I opened my eyes and I felt so good and so young, here's my sister-in-law downstairs, I shouldn't do it but I ran out from the bed and I went to see her. She survived Typhus, my sister and I, and my brother didn't because my mother told him "If you will drink some alcohol where you work, you wont get. It kills the germs.", and it was true. He didn't got Typhus, he slept with his wife, my sister-in-law."</l>
+            
+            <l>Interviewer: "So after you became healthy and you... In <placeName role="39.7725263 64.418142">Bukhara</placeName>, what else... What was your life like as a young girl? "</l>
+            
+            <l>Klara Figa: "My life? I found I have a profession in my hands and I have to use it, not a factory. I learned something in that factory in the night, from shirts, because shirts was my profession! I made for my husband 3 shirts and that's how I met him. So, I learned very quick, wherever the situation is."</l>
+            
+            <l>Interviewer: "What did you learn?"</l>
+            
+            <l>Klara Figa: "I learned that I can live independently, and I went with a friend who worked in a factory with me, and she choose, she knew she was a dress make, oh, a talented woman, from <placeName role="51.7589227 19.4550643">Lodz</placeName>, she was from <placeName role="52.9413115 18.5135975">Poland</placeName>. So she picked up a machine, beautiful, a hand machine - you don't need any feet. With the hand I sewed, so I can sew with a machine by hands! And when my husband met me I made with that machine his shirts, he ran out and he bought me legs to... to... with a treadle. I still have that treadle! And I made just beautiful things. This was my life, I think."</l>
+            
+            <l>Interviewer: "So you sewed things?"</l>
+            
+            <l>Klara Figa: "I can make patterns, because I learned in that school in <placeName role="49.8393964 24.0290254">Lvov</placeName>, in the Klaftanova. It was a beautiful school."</l>
+            
+            <l>Interviewer: "So you sold the things that you sewed? That's how you made a living?"</l>
+            
+            <l>Klara Figa: "From sewing private, from friends alteration, I made a better living than a whole month there, in the factory. All they give you is a little soup in the night. All night, I worked. 8 hours."</l>
+            
+            <l>Interviewer: "And did you go to school there, at that time?"</l>
+            
+            <l>Klara Figa: "Well, I could've gone to school. If I would go to school, mine sister wouldn't be able to take care of my mother. She wasn't that type, she liked people. To socialize, to make business, to make somebody work, and I was the victim. Young."</l>
+            
+            <l>Interviewer: "So you didn't go to school so you could take care of your mother?"</l>
+            
+            <l>Klara Figa: "Right. I sewed in the house and I did repair, alteration and... It didn't took too long. I don't remember how it was, that she got sick so I start knitting, and I knitted a beautiful sweater for a doctor, a woman, who came to my mother everyday, everyday to check on her, give her medicines."</l>
+            
+            <l>Interviewer: "Your mother got sick?"</l>
+            
+            <l>Klara Figa: "I gave her, I didn't know how to cook, I never... I knew how to sew, how to knit, but never, she didn't let me in the kitchen because my sister was in the kitchen, she didn't want too much, to have 2, she will have to be out. So, I... I don't know where I were."</l>
+            
+            <l>Interviewer: "You were taking care of your mother."</l>
+            
+            <l>Klara Figa: "I was taking care, so what is the care? If I cannot cook and she is sick, so I went and stayed in a line, maybe a haf an hour or more, 'till I got that soup. And when I came it got sour because it's very hot, it was maybe a day old from before. And she ate, and I got sick and she got diarrhea, and I knew I cannot do it. I survived, but she couldn't. See I was young, so I survived from that soup. Was the end for 1 year she was in bed. 1 year."</l>
+            
+            <l>Interviewer: "She was sick for 1 year?"</l>
+            
+            <l>Klara Figa: "Yeah. In 1944."</l>
+            
+            <l>Interviewer: "What did she have? What kind of sickness?"</l>
+            
+            <l>Klara Figa: "Diarrhea."</l>
+            
+            <l>Interviewer: "There was no medicine for her?"</l>
+            
+            <l>Klara Figa: "Not Copacetic. I whish I had when I came here with my daughter. She was 3 years old, from the ship 3 weeks, and Dr. Zolov came to the house, they called him, the ladies, and he saved my baby's life, Pearl, my oldest."</l>
+            
+            <l>Interviewer: "But your mother did not survive?"</l>
+            
+            <l>Klara Figa: "No. They couldn't have any medicine, everything goes for the army, was the war."</l>
+            
+            <l>Interviewer: "The Russian army?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "So she died in the house?"</l>
+            
+            <l>Klara Figa: "She out in the house, with me holding like that on. All night. It was one year, and this was my 18th birthday, I was 18. And this is when she gave up, she couldn't suffer. The reason is, that she died, I can understand now but I didn't understood, I was so young. I read a letter from my cousin that my brother was her favorite. What they did with the tales, this was stupid. I didn't know what it ws in that letter."</l>
+            
+            <l>Interviewer: "So how did you continue your life at age 18, after you lost your mother?"</l>
+            
+            <l>Klara Figa: "After I lost my mother I bought that machine. After I lost my mother, I knitted while I was taking care of my mother, but the machine, I earned money and right away I bought the machine with the help of a friend who works with me there."</l>
+            
+            <l>Interviewer: "And what year, how long were you in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "5 years."</l>
+            
+            <l>Interviewer: "So when you left it was 1946?"</l>
+            
+            <l>Klara Figa: "'46. My sister went in '45 and I couldn't go because I was married. In '45 I married my husband."</l>
+            
+            <l>Interviewer: "How did you meet him?"</l>
+            
+            <l>Klara Figa: "On the street, I told you I made 3 shirts, and he was after me for a year. And they told, my girlfriends, that "You cannot take her away from her sister. She won't date you, her mother passed away, she shouldn't go to a movie.", and he tried and he tried. He knew how to do it."</l>
+            
+            <l>Interviewer: "How old were you when you married him?"</l>
+            
+            <l>Klara Figa: "20."</l>
+            
+            <l>Interviewer: "20?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "And you were still living in <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "How much longer after that did you leave <placeName role="39.7725263 64.418142">Bukhara</placeName>?"</l>
+            
+            <l>Klara Figa: "When my husband had the papers settled. My sister left me with my brother, my sister-in-law because I am married, with a stranger - I didn't even know him. It was so terrible when they left. I went to th plane, and I baked a cake, I learned how to bake and how to cook. I had to, he was hungry, there was no restaurant to go and eat. He ate on the street there on a open market."</l>
+            
+            <l>Interviewer: "When you left <placeName role="39.7725263 64.418142">Bukhara</placeName>, where were you going?"</l>
+            
+            <l>Klara Figa: "When I left <placeName role="39.7725263 64.418142">Bukhara</placeName> I came back to <placeName role="52.9413115 18.5135975">Poland</placeName> with my husband."</l>
+            
+            <l>Interviewer: "How did you know it was okay to go back to <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "My sister was there already, and my brother..."</l>
+            
+            <l>Interviewer: "In <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "Not in <placeName role="49.8393964 24.0290254">Lvov</placeName>."</l>
+            
+            <l>Interviewer: "Where in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "But wherever the train went, to <placeName role="53.4289029 14.5519469">Szczecin</placeName>, it's someplace near <placeName role="51.051007 10.2988644">Germany</placeName>, a city. She went there."</l>
+            
+            <l>Interviewer: "At that time, did you know what had happened in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "How did you find out?"</l>
+            
+            <l>Klara Figa: "When we came my husband found friends and they told him what happened to his mother, to his father, to his sister, to his brother. Everything. He cried like a baby, and here I am all alone, lost without my family. No sister, no brother, just all alone."</l>
+            
+            <l>Interviewer: "What did he hear about his family?"</l>
+            
+            <l>Klara Figa: "He heard how terrible it was, he didn't want to tell me or the children to know about his life, his family life. They told him the tales, probably, he didn't told me. And he didn't want anybody to know. From the kids, nobody knew who they are 'till my daughter find out when she went to <placeName role="30.9993047 34.8010902">Israel</placeName>, before me, she went to <placeName role="30.9993047 34.8010902">Israel</placeName> when she was 16 because she knew I have a sister, a brother and he was alive. They had a farm, they sold property, the lands that my father had. Some of it, there is still left enough, but they knew what to do. They bought a farm just like what he knew about. A milk farm they had, in <placeName role="31.8924762 34.810182">Rehovot</placeName>. It was a Moshav."</l>
+            
+            <l>Interviewer: "Going back to 1946, when you made plans to go to <placeName role="52.9413115 18.5135975">Poland</placeName>, what were your plans at the time?"</l>
+            
+            <l>Klara Figa: "My plans were, I don't have parents, I was thinking and hoping he have young parents with pictures, sisters and brothers, that we gonna be a family. Not mine, I will be with them. When you marry, you have to belong someplace."</l>
+            
+            <l>Interviewer: "So which town did you go to in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "In <placeName role="50.0469018 19.8647879">Krakow</placeName>."</l>
+            
+            <l>Interviewer: "<placeName role="50.0469018 19.8647879">Krakow</placeName>?"</l>
+            
+            <l>Klara Figa: "My husband went down there. He went to a Yeshiva, he was supposed to be a Rabbi."</l>
+            
+            <l>Interviewer: "What did you find when you got to <placeName role="50.0469018 19.8647879">Krakow</placeName>?"</l>
+            
+            <l>Klara Figa: "I didn't know nobody there. This was my husband that found a friend, a few friends, he found. He took me everywhere, to his friends and I didn't know nothing about those people."</l>
+            
+            <l>Interviewer: "Do you remember what the city looked like when you went back?"</l>
+            
+            <l>Klara Figa: "I always dreamed to go to <placeName role="50.0469018 19.8647879">Krakow</placeName>, from the history."</l>
+            
+            <l>Interviewer: "What did it look like?"</l>
+            
+            <l>Klara Figa: "It is from the history. All kings are build something, and the people go there from school for a tour, and I wanted to go when I finished but it didn't work out. I didn't even went down, I was sick. When I saw him sick."</l>
+            
+            <l>Interviewer: "Did you have any plans to go back to <placeName role="50.3838204 24.2168673">Krystynopol</placeName>?"</l>
+            
+            <l>Klara Figa: "They told us not to dare to go because people are chopping, Ukrainian they chopping up, they killing the people who come for the houses, for the property."</l>
+            
+            <l>Interviewer: "Who told you that?"</l>
+            
+            <l>Klara Figa: "The people talked. I didn't know, I didn't read about it, but I knew it's very dangerous to be."</l>
+            
+            <l>Interviewer: "So did you try to go back to your house?"</l>
+            
+            <l>Klara Figa: "No. You know who went back?"</l>
+            
+            <l>Interviewer: "Who?"</l>
+            
+            <l>Klara Figa: "My brother had a sister-in-law, and she is non-Jewish, a Polish girl, and she went with my brother there and sold the property because my father, when he was in the hospital, he gave my brother the... the policies that he owned for him, because he worked for my father and he didn't told that I am alive too, and my mother was alive. But he gave the... all those documents he kept before he died."</l>
+            
+            <l>Interviewer: "Did you try to go back to <placeName role="49.8393964 24.0290254">Lvov</placeName>?"</l>
+            
+            <l>Klara Figa: "No, no."</l>
+            
+            <l>Interviewer: "For the same reason?"</l>
+            
+            <l>Klara Figa: "I have no intention to search from yesterday because, for me, there was no life except that year in school that I had, and I had a lot to be thankful. To be able to be independent, and I am never in search for possession. My possession was my husband, my children, I had already 4 children before we bought this house. Now, I thought I'm the richest woman on the earth, and such a good neighbors, and a good neighborhood, 40 years it's my life here not there. I have nothing to search."</l>
+            
+            <l>Interviewer: "How long were you in <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "'Till '40."</l>
+            
+            <l>Interviewer: "No, when you went back in 1946, how long did you stay there?"</l>
+            
+            <l>Klara Figa: "4 weeks. He said, my husband said "Lets run". So he sold everything, he left mine... mine dishes and things from the wedding, everything. He didn't sold it, he left everything behind."</l>
+            
+            <l>Interviewer: "Where did you go after <placeName role="52.9413115 18.5135975">Poland</placeName>?"</l>
+            
+            <l>Klara Figa: "After <placeName role="52.9413115 18.5135975">Poland</placeName> we went for my Kibbutz. We had only a rucksack, we sold everything, my machine, everything. And we went to <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName>. From <placeName role="52.9413115 18.5135975">Poland</placeName> to <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName>."</l>
+            
+            <l>Interviewer: "How was the traveling from <placeName role="52.9413115 18.5135975">Poland</placeName> to <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName>?"</l>
+            
+            <l>Klara Figa: "I will never forget, there wasn't allowed any Marks, German Marks, like Dollars, to bring over, and she recognized that I am afraid, I have something, driver. So two girls came to me and tried, and she said to me "Take out everything what you have there on the stomach", and I gave her everything. All the money that I sold from a year living with my husband, what he bought, and she took it away and put it under the cushion, in the pillow. Both of them. I'll never forget this."</l> 
+            
+            <l>Interviewer: "This was in <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah. Going to <placeName role="47.5922001 14.108187">Austria</placeName>, on the border, they made a revision."</l>
+            
+            <l>Interviewer: "So how did you manage to... to survive without money?"</l>
+            
+            <l>Klara Figa: "I stayed 3 weeks in a tent, and we stayed in...with a plate and a little soup or something, dinner. But they have for 3 months, 'till my husband found out some friends and they gave him letter, and they start a machine, and he start working. When he came to <placeName role="51.051007 10.2988644">Germany</placeName> he already was set for his profession, he was thinking how to make a living, he knew he's 10 years older. He was 10 years older."</l>
+            
+            <l>Interviewer: "What was his profession?"</l>
+            
+            <l>Klara Figa: "He was a designer, you want me to show you? That beautiful shoes? 45 years ago, I still hvae them like new."</l>
+            
+            <l>Interviewer: "We'll see it later."</l>
+            
+            <l>Klara Figa: "Even my daughter wore them in College in North Eastern for a year. He was a talented..."</l>
+            
+            <l>Interviewer: "So he was a designer?"</l>
+            
+            <l>Klara Figa: "A designer."</l>
+            
+            <l>Interviewer: "Of shoes?"</l>
+            
+            <l>Klara Figa: "Of shoes. He made patterns."</l>
+            
+            <l>Interviewer: "So, how long did you stay in <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName>?"</l>
+            
+            <l>Klara Figa: "About a week."</l>
+            
+            <l>Interviewer: "And after that where did you go?"</l>
+            
+            <l>Klara Figa: "We went to <placeName role="47.5922001 14.108187">Austria</placeName> in... <placeName role="48.3069239 14.2851021">Linz</placeName>, yeah. In Linz we were a couple weeks. In a transit, you know, temporary."</l>
+            
+            <l>Interviewer: "When you moved from place to place did you have a plan to go somewhere specific?"</l>
+            
+            <l>Klara Figa: "To <placeName role="30.9993047 34.8010902">Israel</placeName>. To meet with my family. This was mine dream."</l>
+            
+            <l>Interviewer: "This was your dream. So after <placeName role="49.6819855 15.0671393">Czechoslovakia</placeName> you went to..."</l>
+            
+            <l>Klara Figa: "To <placeName role="47.5922001 14.108187">Austria</placeName>."</l>
+            
+            <l>Interviewer: "<placeName role="47.5922001 14.108187">Austria</placeName>. And what did you do there?"</l>
+            
+            <l>Klara Figa: "In <placeName role="47.5922001 14.108187">Austria</placeName> I was 3 months, in <placeName role="48.3069239 14.2851021">Linz</placeName>. I found out that my cousin is living, the one who wrote that letter, and I went to her."</l>
+            
+            <l>Interviewer: "When you were traveliing on the trains, did you have to hide the fact that you were Jewish?"</l>
+            
+            <l>Klara Figa: "No, there was no time for Jewish or non-Jewish. There was a war, and we were away and refugees."</l>
+            
+            <l>Interviewer: "Were there officials on the trains that were checking?"</l>
+            
+            <l>Klara Figa: "There were people from our Kibbutz, or people from an organization that took care of us. We didn't went by himself."</l>
+            
+            <l>Interviewer: "Oh you didn't travel by yourself?"</l>
+            
+            <l>Klara Figa: "No, no."</l>
+            
+            <l>Interviewer: "Which was the organization..."</l>
+            
+            <l>Klara Figa: "Without money, we haven't got any money. Pardon me?"</l>
+            
+            <l>Interviewer: "Do you remember the organization?"</l>
+            
+            <l>Klara Figa: "The organization..."</l>
+            
+            <l>Interviewer: "That helped you travel?"</l>
+            
+            <l>Klara Figa: "I have, in one of those camps, still a document that I learned how to make patterns for suits. How to cut, how to make patterns for suits, for coats. And this is rehabilitaion center, it says. Now I understand, I didn't know what it means of English and I have it written down on that document, I put it in a frame. And this was mine age that was changed, I was in 1925 still at this document."</l>
+            
+            <l>Interviewer: "So after <placeName role="47.5922001 14.108187">Austria</placeName>, where did you go?"</l>
+            
+            <l>Klara Figa: "To <placeName role="51.051007 10.2988644">Germany</placeName>."</l>
+            
+            <l>Interviewer: "And this was still with the plan to go to <placeName role="30.9993047 34.8010902">Israel</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah. I had a plan, but my husband planned different."</l>
+            
+            <l>Interviewer: "What did he want?"</l>
+            
+            <l>Klara Figa: "To <placeName role="39.6913853 -102.3756528">America</placeName>."</l>
+            
+            <l>Interviewer: "He wanted to go to <placeName role="39.6913853 -102.3756528">America</placeName>. Was it difficult traveling from one country to the next?"</l>
+            
+            <l>Klara Figa: "I really don't know because I didn't arrange nothing, like a child. He took me by the hands and he said "Lets go, the train, we gonna go", he found a Kibbutz, he found everything."</l>
+            
+            <l>Interviewer: "How long did you live in <placeName role="51.051007 10.2988644">Germany</placeName>?"</l>
+            
+            <l>Klara Figa: "5 years."</l>
+            
+            <l>Interviewer: "So this is from 1946 to 1951?"</l>
+            
+            <l>Klara Figa: "Right."</l>
+            
+            <l>Interviewer: "Where did you live in <placeName role="51.051007 10.2988644">Germany</placeName>?"</l>
+            
+            <l>Klara Figa: "I lived in <placeName role="48.8656589 10.1062699">Wasseralfingen</placeName>. This is near <placeName role="48.8367106 10.0968947">Aalen</placeName>."</l>
+            
+            <l>Interviewer: "Was this a camp?"</l>
+            
+            <l>Klara Figa: "It was a camp, yeah. A DP camp. Displaced Persons."</l>
+            
+            <l>Interviewer: "Who ran the camp? Who organized the camp?"</l>
+            
+            <l>Klara Figa: "I have no idea who organized. It was from the American, the American, yeah."</l>
+            
+            <l>Interviewer: "It was American organized?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "You were able to live in the camp with your husband."</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "Did you have an appartment?"</l>
+            
+            <l>Klara Figa: "It was 3 rooms, and we had 1 and a kitchen, 3 families were sharing. It was guests only from 2 'till 4, if you miss it you don't have any dinner. So, we had to do it on one burner and only that time."</l>
+            
+            <l>Interviewer: "How were you treated in the camp?"</l>
+            
+            <l>Klara Figa: "Beautiful, just like equal. Everybody was on the same level, everybody get his portion, milk and things. When I had my baby I had whatever..."</l>
+            
+            <l>Interviewer: "Were you able to get food in the camp?"</l>
+            
+            <l>Klara Figa: "As much as to survive."</l>
+            
+            <l>Interviewer: "The food was given to you?"</l>
+            
+            <l>Klara Figa: "It was American food, yeah, they even gave away chocolate to the German girls who washed the floor, who washed the diapers, who carried the coals, you know, they were hungry, the girls and they would do anything to survive, too."</l>
+            
+            <l>Interviewer: "Did they speak to you?"</l>
+            
+            <l>Klara Figa: "They speak German, and I learned German. I knew German."</l>
+            
+            <l>Interviewer: "How did they treat you?"</l>
+            
+            <l>Klara Figa: "They treat me good because we gave them shoes, nylons, stockings, everything. Young girls, 18-19. She was very good. She was strong and healthy, she good to the children and my husband made a lot of money there, in Germany. He made sandals. And I bought 1 pair sandals, my daughter says, "Mama, these sandals are so comfortable, buy 'em", I bought them. They are not so comfortable, but my husband designed those pattern. This pattern that I bought, I have it."</l>
+            
+            <l>Interviewer: "Tell me, what was the population of the camp? What kinds of people lived in the camp?"</l>
+            
+            <l>Klara Figa: "Those who are planning and waiting for to go to <placeName role="39.6913853 -102.3756528">America</placeName>, to go to <placeName role="30.9993047 34.8010902">Israel</placeName>, to go to other countries, <placeName role="-25.0838169 133.4446553">Australia</placeName>, I don't know."</l>
+            
+            <l>Interviewer: "The people were from different countries?"</l>
+            
+            <l>Klara Figa: "Yeah. From... from I don't know, yeah, <placeName role="46.9999914 19.5819813">Hungary</placeName>, from <placeName role="52.9413115 18.5135975">Poland</placeName>, from <placeName role="51.051007 10.2988644">Germany</placeName>, all kinds."</l>
+            
+            <l>Interviewer: "Did they talk much about what they have experienced before they came to the camp?"</l>
+            
+            <l>Klara Figa: "Yeah, they told about the experience, what they went through. We didn't know."</l>
+            
+            <l>Interviewer: "What kind of stories did you hear?"</l>
+            
+            <l>Klara Figa: "In <placeName role="51.0218831 11.2486982">Buchenwald</placeName> and other names of camps that they were... in the German camps. And <placeName role="50.0345425 19.1786628">Auschwitz</placeName>, I can't remember what those names... we heard more and more afterwards. Everybody had a history that survived, it was just luck."</l>
+
+         </p>
+         <p>
+            
+            <l>Interviewer: "And we are interviewing in <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>, and today's date is <date when="1996-07-28">July 28th, 1996</date>. Mrs.Figa, you were describing your life in the DP camps, how long were you there?"</l>
+            
+            <l>Klara Figa: "I was 5 years in the camp and... I didn't know that, at that time, that I'm gonna go to <placeName role="39.6913853 -102.3756528">America</placeName>, but I found out that we are taking all kinds of examinations and tests, and I had already 2 children, in <placeName role="51.051007 10.2988644">Germany</placeName> born there. With the DP camp, I was happy to be just in a place where I can settle and hang up my clothes from the suitcase, from one camp to another."</l>
+            
+            <l>Interviewer: "Was it difficult to get out of the camp?"</l>
+            
+            <l>Klara Figa: "Yeah, the camp was free."</l>
+            
+            <l>Interviewer: "I mean in terms of paper and visas."</l>
+            
+            <l>Klara Figa: "If you had good health, they didn't make any objection. They just want to <placeName role="39.6913853 -102.3756528">America</placeName> to have perfect. Everything, lungs and eyes and everything, and I was in good shape, my husband too, so we had no problems."</l>
+            
+            <l>Interviewer: "Did you have to wait long before you were able to leave?"</l>
+            
+            <l>Klara Figa: "Oh probably, I don't remember how long because we had to go with the children to there, in a place where to interview and having tests for, I don't know, the children. I can't remember."</l>
+            
+            <l>Interviewer: "So how did you travel from <placeName role="51.051007 10.2988644">Germany</placeName> to <placeName role="39.6913853 -102.3756528">America</placeName>?"</l>
+            
+            <l>Klara Figa: "From <placeName role="51.051007 10.2988644">Germany</placeName>, I will never forget that ship was a Army ship. It was no-pay, but my husband had to be separated and he worked for the fee that cost."</l> 
+            
+            <l>Interviewer: "On the ship he worked?"</l>
+            
+            <l>Klara Figa: "On the army ship, yeah."</l>
+            
+            <l>Interviewer: "Do you remember the name of the ship?"</l>
+            
+            <l>Klara Figa: "Yeah, General Maxwell Taylor. I have still someplace a yellow paper that falls apart, the letter about arriving and things, I don't remember."</l>
+            
+            <l>Interviewer: "How long was the trip?"</l>
+            
+            <l>Klara Figa: "I think 2 weeks, or 3 weeks, I can't remember."</l>
+            
+            <l>Interviewer: "Were there other immigrants ont he ship?"</l>
+            
+            <l>Klara Figa: "Oh, full, all immigrants."</l>
+            
+            <l>Interviewer: "All of them from the DP camp?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "And they were going to <placeName role="39.6913853 -102.3756528">America</placeName>?"</l>
+            
+            <l>Klara Figa: "Yeah."</l>
+            
+            <l>Interviewer: "Where did you think you were going, what city?"</l>
+            
+            <l>Klara Figa: "I knew <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>, and once, I like sardines they serve, I opened up a can and I said "Oh I know where we going, they make there fish!"Sardines, and I loved them."</l>
+            
+            <l>Interviewer: "How did you pick <placeName role="43.6589533 -70.2655864">Portland, Maine</placeName>?"</l>
+            
+            <l>Klara Figa: "<placeName role="43.6589533 -70.2655864">Portland</placeName> picked us because my husband had a profession, a designer, he had a course taken special from the German because he was working all the time, and he made beautiful things with other people, shoe makers. He designed and he sold the stitching."</l>
+            
+            <l>Interviewer: "Do you remember the day you came to <placeName role="43.6589533 -70.2655864">Portland</placeName>?"</l>
+            
+            <l>Klara Figa: "I'll never forget, this was my happiest day. The <date when="1951-03-03">3rd of March, 1951</date>. I arrived with 2 ladies waiting for me from the organization, I don't know, whatever sisterhood or... And they treat me, oh my, my kids were talking with the... Pearl was talking Yiddish and they were so jealous the kids are friends now, they were became because of them that they know how to talk Yiddish. Jewish people didn't bring up the children here to talk Yiddish, now it's more and more, I heard, that people write letters and learn, taking courses on Yiddish and..."</l>
+            
+            <l>Interviewer: "How old were your children when they came?"</l>
+            
+            <l>Klara Figa: "She was, Pearl, 3 years, and my son was 16 months, he just start walking because I hold him , he was so heavy, god, and I couldn't wait to sit down and take off everything and put away, have a normal life."</l>
+            
+            <l>Interviewer: "So where was your home in <placeName role="43.6589533 -70.2655864">Portland</placeName>, where did you go?"</l>
+            
+            <l>Klara Figa: "At Portland, the first home was in a very poor neighborhood, which was good that I didn't have a car, that I can go in in the Jewish races' bakery and I can go to CV's to buy delicatessen and buy meat at Blumenthal it... with a carriage, I had a carriage."</l>
+            
+            <l>Interviewer: "So you had an appartment or a house?"</l>
+            
+            <l>Klara Figa: "Yeah, for 20$ a month, was very cheap. I couldn't afford..."</l>
+            
+            <l>Interviewer: "Did someobody help get you that appartment?"</l>
+            
+            <l>Klara Figa: "Yeah, yeah. Before I came I had an appartment the sisterhood."</l>
+            
+            <l>Interviewer: "Who arranged for it?"</l>
+            
+            <l>Klara Figa: "The sisterhood, I don't know, they knew..."</l>
+            
+            <l>Interviewer: "The sisterhood?"</l>
+            
+            <l>Klara Figa: "Yeah, from the Jewish federation."</l>
+            
+            <l>Interviewer: "Do you remember what it was like to become accustomed to the American life?"</l>
+            
+            <l>Klara Figa: "It was so beautiful, you cannot imagine. My life just began the day I stepped in, in that appartment."</l>
+            
+            <l>Interviewer: "What did you enjoy the most?"</l>
+            
+            <l>Klara Figa: "The, the... The home. A stove, to cook for my children, to in for my husband. The experience I learned and I knew from before a little bit, because I was married already for 5 years. It was... I am a born homemaker. I am not a... to go and live and socialize. But this what I've done, I made a lot of friends because I worked for people. I made happy people. And I was happy."</l>
+            
+            <l>Interviewer: "Did they ask you about <placeName role="50.4298035 13.4884746">Europe</placeName>? Did they ask you questions about your life in <placeName role="50.4298035 13.4884746">Europe</placeName>?"</l>
+            
+            <l>Klara Figa: "No. Nobody questioned because it was too painful when you are alone here, nobody I knew. They helped me just with the language, that I can learn English, to understand. This was the hardest, I went to the Jewish community center in Cumberland avenue, and I took both kids and they took care of the children so I can learn. And, I still have that teacher, Mrs. Blumenthal, and she remembers. In the temple we meet, she was my first teacher, and I never could have another teacher because she... I was pregnant and I went... the, this... umm... morning sickness, and with 2 children and here, this was an imglick. I thought it is a disaster I got pregnant now and I cannot learn, I cannot... my friends drive a car and I cannot. But, she did good, that girl was born brought life to mine and happiness that is more than any cars aand any other things luxury can give you."</l>
+            
+            <l>Interviewer: "How many more children did you have?"</l>
+            
+            <l>Klara Figa: "I had her, and another one, not in here, but on Clark st. I lived 2 years, there was a nice room with the steam which it was nice. They haven't gotten oil and they told me it's dangerous, not to go away and leave th baby and go for meat. They send me right over, they made sure that nothing happened to the children in that appartment, but... This one was a better and cheaper, so I stayed there as long as I could because the neighbors were all occupied, so I got the rent which I need for taxes and for other things to pay."</l>
+            
+            <l>Interviewer: "When you were living in <placeName role="43.6589533 -70.2655864">Portland</placeName>, did you already know what happened to the rest of your family in <placeName role="50.4298035 13.4884746">Europe</placeName>?"</l>
+            
+            <l>Klara Figa: "When I was living here in <placeName role="43.6589533 -70.2655864">Portland</placeName> I got letters from <placeName role="30.9993047 34.8010902">Israel</placeName>. Yeah, I was in contact with my sister, with my other sister, but she probably died shortly. And she was the oldest from the... my father's, I wasn't close because I was too young and she was married with children already."</l>
+            
+            <l>Interviewer: "When you were um... having your family and living in <placeName role="39.6913853 -102.3756528">America</placeName>, did you ever think about your life in <placeName role="50.4298035 13.4884746">Europe</placeName>?"</l>
+            
+            <l>Klara Figa: "If... I couldn't think back, I look forwards I never go back, because each day was beautiful to me, I was healthy and I was having a talent in my hands, and I earned money without a machine, and the children are healthy and beautiful and I learn English from them so I didn't go to school anymore. I read them books and that's how... And from television, from reading."</l>
+            
+            <l>Interviewer: 'Did your children find out about your... your and your husband's..."</l>
+            
+            <l>Klara Figa: "My oldest, my oldest wanted to know, everybody has a cousin, a grandma, a grandfather... This was painful. She was suffering, and she went when she earned her first job, she went to <placeName role="30.9993047 34.8010902">Israel</placeName> to my sister and to my brother."</l>
+            
+            <l>Interviewer: "And that's where she found out?"</l>
+            
+            <l>Klara Figa: "And she get to know them. She didn't find, they were just like me, she settled and worked hard in <placeName role="30.9993047 34.8010902">Israel</placeName>. I worked here, to gain what I wanted, a home."</l>
+            
+            <l>Interviewer: "Then what was that book that she was reading, that you were talking about before?"</l>
+            
+            <l>Klara Figa: "Yeah, this was a family from my father's side. My father had a brother in <placeName role="50.3838204 24.2168673">Krystynopol</placeName>, and he... They were also wealthy, they had a lot of land. This is in the family probably, they all had land, and he have a... had a factory from cement they making, very successful. But the 3 children, ad the husband, and the wife that lived next door to us, nobody survived. Nobody. But a cousnins... a... mine cousin's sister, she's a cousin too, was miraculous how they survived, because there were 2 brothers, and the 2 brothers helped each other. They took in their mother in a hiding place, and they found a woman who worked for them, who did a farm to... to that not to notice that they are hiding in a... in a haylot or a, how they call it?"</l>
+            
+            <l>Interviewer: "Hayloft."</l>
+            
+            <l>Klara Figa: "Hayloft. And that cousin, when she was 16,  my oldest, the Rabbi's guy, I told him I'm very lonely I want to go to <placeName role="30.9993047 34.8010902">Israel</placeName>, I don't feel here, I have nobody. He said, "I have somebody", he said that he going to <placeName role="39.6308254 -74.6937086">New Jersey</placeName> to <placeName role="40.7357944 -74.1738372">Newark</placeName>, and I said "<placeName role="40.7357944 -74.1738372">Newark</placeName>? I have a cousin!" and he said, "Who is your cousin?", I said Moishe Malz. He said, "He's the president from my father's schul, he's a Rabbi". Rabbi's guy, I saw him yesterday in the temple, but he went out, I couldn't talk to him to remind him what he've done for me. He bought a new station wagon, he had 2 children, his wife was pregnant, I didn't know about it, and he... Pearl and me, and I left my husband with all the children, 5, and her I gave a good time at 16. Sweet 16, everybody talked I never did nothing, but I can do something. This was the best reunion that she found out now. And she remembers it, she went to them to weddings, to... And I got to know, her husband was there, with the children and the 2, we were all together on simches. And they went to <placeName role="30.9993047 34.8010902">Israel</placeName>. One daughter is a reporter, and she is in <placeName role="31.7684517 35.2124129">Jerusalem</placeName>, have 3 children."</l>
+            
+            <l>Interviewer: "So as the years passed by, the rest of your family, your other children, didn't talk to you much about your <placeName role="50.4298035 13.4884746">Europe</placeName> experience?"</l>
+            
+            <l>Klara Figa: "They didn't even know what's going on, it was..."</l>
+            
+            <l>Interviewer: "You didn't tell them?"</l>
+            
+            <l>Klara Figa: "No. My husband says (puts finger on mouth to show silence) "Keep your mouth shut, don't talk to the children nothing". I didn't know why the reason."</l>
+            
+            <l>Interviewer: "Do they know now?"</l>
+            
+            <l>Klara Figa: "She knows, and my youngest read that book and cried. It's a terrible effect, so many years they grew up, and they didn't know the difference what life, what is cousins, what is family. It's not family to have each other, you have to have the roots, you have to know where you came from, where you belong."</l>
+            
+            <l>Interviewer: "Now that 50 years have passed since the Shoah, how do you think your experiences affected your life that followed?"</l>
+            
+            <l>Klara Figa: "My life wasn't sweet, but I survived only because I take everything what my mother blessed me, and the blessing is she send me my husbad, who takes care of me, and my father bought me shoes which my husband notice I wear and he siad, "Do you know, I made them in 1937!". Miracles happen to me. You know why? I believe in God, and I believe that god leads me. And all those miracles happen with a cost, my father, my mother, I was good to both. I was a child, and I'm still a child. And that's why I live happy. Children are happy, because you learn every day something else 'till you die, 'till the last day of your life. And if you don't learn, you are dead. We have to, and I'm very quick to learn. My mind, thank God, I had blessings from my mother every time I give to her, I cook for her, so she had somebody to live for, but she couldn't because my brother, I knew now what hurt her. That cousin wrote a letter about how it happened, it was terrible to describe about, but it's supposed to be like that. We cannot prevent things that happen."</l>
+            
+            <l>Klara Figa: "Here to the right is mine daughter Rachel, my grandson Benjamin and my son-in-law, David. I'm very proud to have them today with me."</l>
+            
+            <l>Interviewer: "Is there anything that you would like to tell your mother, ot your grandmother? About her experiences?"</l>
+            
+            <l>Benjamin: "No."</l>
+            
+            <l>Rachel: "I think that, umm, I'm very proud of my mother and my father for the positive attitude and energy they brought to starting a life here in <placeName role="45.1143995 -69.2952998">Maine</placeName>, In <placeName role="43.6589533 -70.2655864">Portland</placeName> after the war that umm, 6 children, and my father developed his own business and I think the energy to survive and to prosper and to nurture us and to create a life was amazing given where they come from and what they'd done to survive, and they really were role models for us, for all the 6 children, for working hard, accomplishing, taking responsibility for our lives. I think they're very strong in that area, because we are all very independent, everybody has an established career and everyone works hard. Just 5. Plus there's a very positive energy around family and children that we all have, and umm... and uh, I know for myself I feel a very strong Jewish Identity and I now live in a very Jewish community in <placeName role="42.1236526 -71.1792942">Sharon, Massachusetts</placeName>, and I think my choice of my husband and our family, where we live, what we do is very much a reflection of my, of the values my parents gave to me. And umm, thank you 'Ma."</l>
+            
+            <l>Klara Figa: "Thank you honey, for coming to <placeName role="43.6589533 -70.2655864">Portland</placeName>, the first citizen, before I was."</l>
+            
+            <l>Interviewer: "On behalf of the Shoah foundation, I'd like to thank you and express our appreciation for letting us come into your home and sharing the stories of your life and of your family with us. Thank you very, very much."</l>
+            
+            <l>Klara Figa: "It's my pleasure, and so my family enjoy having you here. They came down the middle of the night and they 'gonna be happier after they can hear more about this."</l>
+            
+            <l>Interviewer: "Thank you very much."</l>
+         </p>
+
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,17 @@
+In our project, we created a tool which analyzes Holocaust survivors' testimonies and presents all locations mentioned in their story on a map.
+
+First, we acquired Klara Figa's audio-visual testimony, filmed by the <a href="https://sfi.usc.edu/">USC Shoah foundation</a> in 1996.
+Next, we transcribed the testimony and created an xml file using oxygen, which also allowed us to tag all location mentioned using TEI tags.
+
+In building our new tool, we wrote a Python program which receives an xml testimony file (does not necessarily receive the file we tagged, it can work on any xml testimony file with tagged locations as 'placeName').
+The code parses the xml file, retrieves all locations and builds an html website.
+The website contains a google map (using google API) which marks all found locations.
+Clicking on each marker opens an info-window which contains all references to that place made by the testimony giver.
+In the next tab, the entire testimony will be presented.
+
+Our goal was to explore the journey of the Holzman family, to learn about their story during WWII and create something to commemorate it.
+
+In general, creating this tool enables us to present a family's journey through an interactive map. 
+We can see places which are mentioned more than others, and also it can allow people searching for specific locations to do so with ease.
+
+Download our data <a href=http://www.filedropper.com/klarafigatestimony>here</a>
