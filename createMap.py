@@ -89,7 +89,7 @@ for parent in root.iter():
                         locations[find_location(child.text)]["lines"] = locations[find_location(child.text)][
                                                                             "lines"] + line + "<br /><br />"
                     else:
-                        # lina has already appeared in a mention of a location earlier. pull the tagged line from before
+                        # line has already appeared in a mention of a location earlier. pull the tagged line from before
                         # with the tags that were already given
                         if locations[find_location(child.text)]["lines"].find(listOfLines[listOfRealLines.index(realLine)]) == -1:
                             locations[find_location(child.text)]["lines"] = locations[find_location(child.text)][
